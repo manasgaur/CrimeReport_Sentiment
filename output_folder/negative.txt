@@ -1,0 +1,445 @@
+"Active crime scene on I-59/20 near Jeff/Tusc Co line. One dead, one injured; shooting involved. Police search in the area; traffic stopped"
+
+Sentiment Assessment:
+[[["active"], -0.13333333333333333, 0.6, null], [["near"], 0.1, 0.4, null], [["dead"], -0.2, 0.4, null]]
+
+Text"Police have arrested a suspect in the Monday shooting at the basketball courts behind Word Tabernacle Church. http://t.co/X67i7jajij"
+
+Sentiment Assessment:
+[[["behind"], -0.4, 0.7, null]]
+
+Text"Lawsuit alleges Chicago Police strip-searched trio in public http://t.co/NGVCe42BUW via @suntimes"
+
+Sentiment Assessment:
+[[["public"], 0.0, 0.06666666666666667, null]]
+
+Text"Police failing to stamp out \u2018honour crimes\u2019, from domestic violence and forced marriage to FGM and murder http://t.co/SLuXLgbQbU"
+
+Sentiment Assessment:
+[[["domestic"], 0.0, 0.1, null], [["forced"], -0.30000000000000004, 0.2, null]]
+
+Text"Today's front page: \nPolice failing to stamp out \u2018honour crimes\u2019 http://t.co/SLuXLgbQbU http://t.co/w7ft9HW4Vx"
+
+Sentiment Assessment:
+[]
+
+Text"Town of Tonawanda Police Search for Bank Robbery Suspect\nhttp://t.co/4aJxs3Mv9G http://t.co/320mwHfuPl"
+
+Sentiment Assessment:
+[]
+
+Text"Commish Batts makes a strong case for legalizing marijuana - to end the violent MJ trade in Baltimore. @baltimoresun http://t.co/A0TRUflAYl"
+
+Sentiment Assessment:
+[[["strong"], 0.4333333333333333, 0.7333333333333333, null], [["violent"], -0.8, 1.0, null]]
+
+Text"Police swoop on the homeless taking sleeping bags and food parcels in co-ordinated raids in Redbridge http://t.co/ZWmE54jhBP"
+
+Sentiment Assessment:
+[]
+
+Text"#NRAadvice: Don\u2019t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l"
+
+Sentiment Assessment:
+[]
+
+Text"BREAKING NEWS: Judge\u2019s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4"
+
+Sentiment Assessment:
+[]
+
+Text"Woman police sergeant dives in river to drag drowning woman to safety http://t.co/WKSZ2Obw1k via @MailOnline Just #crime fighters? Nope!!!"
+
+Sentiment Assessment:
+[[["drag", "!", "!", "!"], -0.1953125, 0.07083333333333333, null]]
+
+Text"RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @DemandAction: #NRAadvice: Don\u2019t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l"
+
+Sentiment Assessment:
+[]
+
+Text"RT @shiven_gaur: Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blami\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking drunk coming back home..."
+
+Sentiment Assessment:
+[[["real"], 0.2, 0.30000000000000004, null], [["drunk"], -0.5, 1.0, null], [["back"], 0.0, 0.0, null]]
+
+Text"India News Delhi Police arrests three  in Rs 8 cr heist, some cash recovered, mastermind absconding http://t.co/HiyzKtG4cN"
+
+Sentiment Assessment:
+[]
+
+Text"Crime/Lawlessness has always been a problem in Delhi. Home minister and Delhi Police are answerable. Media shud stop blaming AAP."
+
+Sentiment Assessment:
+[]
+
+Text"I added a video to a @YouTube playlist http://t.co/cir6DgKsvp World's Scariest Police Chases 4 (Crime Documentary)"
+
+Sentiment Assessment:
+[[["documentary"], 0.0, 0.0, null]]
+
+Text"New #Legal Remedy Against Police Activities Within Criminal Investigations - Mondaq News Alerts (registration) http://t.co/S1XdGyPOUE"
+
+Sentiment Assessment:
+[[["new"], 0.13636363636363635, 0.45454545454545453, null], [["legal"], 0.2, 0.2, null], [["criminal"], -0.4, 0.55, null]]
+
+Text"Police seek witnesses to grass fires (Delahey  - VIC):\nhttp://t.co/7OEdJQvhMi"
+
+Sentiment Assessment:
+[]
+
+Text"It's so shallow as for evry crime police is being blamed in #capital by govnment!they mean police has to b present ther b4 crime take place."
+
+Sentiment Assessment:
+[[["shallow"], -0.3333333333333333, 0.5, null], [["mean"], -0.3125, 0.6875, null], [["present"], 0.0, 0.0, null]]
+
+Text"Police swoop on kidnappers\u2019 den in Onitsha - http://t.co/HeOoghHHKt http://t.co/AuQrW32iil"
+
+Sentiment Assessment:
+[]
+
+Text"RT @Gun_Shots: \"95% of the time police arrive too late to prevent a crime or arrest the suspect.\" - US News and World Report, 17 June 1998"
+
+Sentiment Assessment:
+[[["late"], -0.3, 0.6, null], [["arrest"], -0.05, 0.0, null]]
+
+Text"Alert issued in Petaluma after men posing as police enter woman's home:  http://t.co/Gq7RrjkwXs"
+
+Sentiment Assessment:
+[]
+
+Text"RT @Darius_Suber95: Police are supposed to be fighting crime on the streets, not sitting in a hiding spot waiting to give someone a hoe ass\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"Peel #Police - Male Arrested on Attempt Murder Warrant http://t.co/tDQE83bFXX\n #crime"
+
+Sentiment Assessment:
+[[["male"], 0.0, 0.1, null]]
+
+Text"Belmar named St. Louis County police chief http://t.co/MXbeCRaJ5K"
+
+Sentiment Assessment:
+[]
+
+Text"RT @geophyraj: Is Mr @ArvindKejriwal going to blame Delhi Police for every crime in the city? Then what was Shiela Dikshit's fault?"
+
+Sentiment Assessment:
+[]
+
+Text"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+
+Sentiment Assessment:
+[]
+
+Text"The Times Picayune - Police investigating shooting in Pontchartrain Park http://t.co/iVehmyxnys"
+
+Sentiment Assessment:
+[]
+
+Text"#NidoTaniam paid for breaking the glass, why were the shopkeepers not made to pay for their crime of beating him.#Delhi police must answer"
+
+Sentiment Assessment:
+[]
+
+Text"RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"#Justice U.S. Marshals Task Force and Toledo Police Arrest Final Suspect in Murder Case: Tole... http://t.co/c5u4Mw7Feq #crime #HiTechCJ"
+
+Sentiment Assessment:
+[[["arrest"], -0.05, 0.0, null], [["final"], 0.0, 1.0, null]]
+
+Text"Alert issued in Petaluma after men posing as police enter woman's home http://t.co/lVcwrHXthc #bayarea"
+
+Sentiment Assessment:
+[]
+
+Text"Watching crime and investigation and one of the police audio analysis investigators is wearing a pair of beats audio headphones."
+
+Sentiment Assessment:
+[]
+
+Text"Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/2iQRugpWfn"
+
+Sentiment Assessment:
+[]
+
+Text"via @NOLAnews Police investigating shooting in Pontchartrain Park http://t.co/ikLjlj9V6V"
+
+Sentiment Assessment:
+[]
+
+Text"Again port st lucie!i know there's crime everywhere but they just stupid here http://t.co/qdSW6gWSA4"
+
+Sentiment Assessment:
+[[["stupid"], -0.7999999999999999, 1.0, null]]
+
+Text"Crime reports offered online http://t.co/gW087y5ELT"
+
+Sentiment Assessment:
+[]
+
+Text"Crime reports offered online http://t.co/tmzdPaJaWi"
+
+Sentiment Assessment:
+[]
+
+Text"Safeguarding: Investigation into 'why Lincolnshire police marked one third of all reported rapes as 'no crime'':\nhttp://t.co/MvMGf8Ehzv"
+
+Sentiment Assessment:
+[[["marked"], 0.1, 0.6, null], [["third"], 0.0, 0.0, null]]
+
+Text"Alert issued in Petaluma after men posing as police enter woman's home: Petaluma police issued a prowler alert... http://t.co/Gq7RrjkwXs"
+
+Sentiment Assessment:
+[]
+
+Text"Suburban Crime Log: 2-01 http://t.co/bCWfqPZo0W"
+
+Sentiment Assessment:
+[[["suburban"], 0.0, 0.0, null]]
+
+Text"Suburban Crime Log: 2-01 http://t.co/rf5vK5sh5X"
+
+Sentiment Assessment:
+[[["suburban"], 0.0, 0.0, null]]
+
+Text"UPDATED: Big data: police given access to British army's crime-fighting software http://t.co/XkU8xSx6vV"
+
+Sentiment Assessment:
+[[["big"], 0.0, 0.1, null], [["british"], 0.0, 0.0, null]]
+
+Text"RT @DemandAction: #NRAadvice: Don\u2019t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l"
+
+Sentiment Assessment:
+[]
+
+Text"Arunachal student death: Delhi Police files murder case, magisterial probe ordered - Zee News http://t.co/nJewusvPbX"
+
+Sentiment Assessment:
+[]
+
+Text"What if instead of police dogs, there were giant man-sized police spiders.\n\nThere would never be crime."
+
+Sentiment Assessment:
+[[["giant"], 0.0, 1.0, null]]
+
+Text"RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv"
+
+Sentiment Assessment:
+[]
+
+Text"RT @NOLAnews: Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv"
+
+Sentiment Assessment:
+[]
+
+Text"Police investigating shooting in Pontchartrain Park http://t.co/JFassdU7iv"
+
+Sentiment Assessment:
+[]
+
+Text"Tip helps Clarksville police foil school shooting, CPD says http://t.co/69W4Bkxaf4"
+
+Sentiment Assessment:
+[]
+
+Text"Simi Valley sees second-safest year on record: Police said Friday that Simi Valley's crime rate fell to 14.8... http://t.co/QZbDdUzHT5"
+
+Sentiment Assessment:
+[]
+
+Text"Police investigating shooting in Pontchartrain Park: Man shot in Gentilly neighborhood Saturday (Jan. 31) night. http://t.co/k55h9KWFdZ"
+
+Sentiment Assessment:
+[]
+
+Text"RT @awkwardposts: Imagine if Police had giant police spiders instead of police dogs. There would be no crime."
+
+Sentiment Assessment:
+[[["giant"], 0.0, 1.0, null]]
+
+Text"Behind teen\u2019s heroin overdose death, a troubling trend http://t.co/cxb8uv4giR"
+
+Sentiment Assessment:
+[[["behind"], -0.4, 0.7, null], [["teen"], 0.0, 0.0, null]]
+
+Text"Police searching for victims in alleged child porn bust http://t.co/bFxRozE3FW"
+
+Sentiment Assessment:
+[[["alleged"], -0.1, 0.1, null]]
+
+Text"Police investigating shooting in Pontchartrain Park http://t.co/BzP5fIOhAo"
+
+Sentiment Assessment:
+[]
+
+Text"Police: Drugs, definitions behind crime rise: The number of serious crimes reported to Springfield police... http://t.co/CagUK9Pc4q"
+
+Sentiment Assessment:
+[[["behind"], -0.4, 0.7, null], [["serious"], -0.3333333333333333, 0.6666666666666666, null]]
+
+Text"News-Leader: Police: Drugs, definitions behind crime rise http://t.co/F9w3NAuM2K"
+
+Sentiment Assessment:
+[[["behind"], -0.4, 0.7, null]]
+
+Text"West Yorkshire\u2019s police commissioner announces two per cent council tax hike: WEST Yorkshire\u2019s police and crime... http://t.co/05x0dIeq57"
+
+Sentiment Assessment:
+[]
+
+Text"\"San Francisco police don\u2019t keep crime stats as well as #Oakland\" http://t.co/IcDYOF9VgI"
+
+Sentiment Assessment:
+[]
+
+Text"RT @girlweena: Just heard a police detective say \"interwishin'\" instead of \"intuition\" and am now considering a life of crime."
+
+Sentiment Assessment:
+[]
+
+Text"@stephgrain My response won't change from \"no comment.\" If u have knowledge of a crime report to http://t.co/o0J6860Dun local police twitter"
+
+Sentiment Assessment:
+[[["local"], 0.0, 0.0, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/tqZiCJ0ReA"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/IcOKW2gOiz"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/V8DiQnF9aG"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/aCmS22XMt4"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/cuhrnmsmtn"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/lmetostVCT"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"McLean High School student\u2019s heroin overdose shows disturbing trend facing police http://t.co/dSIiQNTVwz"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null], [["disturbing"], -0.5, 0.8, null]]
+
+Text"@Vote4AAP @AamAadmiParty @MSisodia&gt;RSS etc's Bigotry-Irrationality-Misogyny a Way o Life-80% Ppl w/ NO Civic SENSE-Police Partners of Crime&gt;"
+
+Sentiment Assessment:
+[]
+
+Text"@pataz1 Her DNA was not found mixed all over the crime scene. Also Perugia's police allowed crime scene to be traipsed over multiple times."
+
+Sentiment Assessment:
+[[["mixed"], 0.0, 0.25, null], [["multiple"], 0.0, 0.0, null]]
+
+Text"2/2 Police will assist with injured animals when they are on a highway or where a crime is suspected"
+
+Sentiment Assessment:
+[]
+
+Text"@NoMoreDemocracy there's crime in it but no police or anything like that."
+
+Sentiment Assessment:
+[]
+
+Text"#police #judgment #crime #court http://t.co/yXXZSpnmGO notes 6 #Laws You've Broken Without Even Realizing It http://t.co/cfuzHBt8kN"
+
+Sentiment Assessment:
+[[["broken"], -0.4, 0.4, null]]
+
+Text"RT @DemandAction: #NRAadvice: Don\u2019t cooperate with police if your gun shows up at a crime scene: http://t.co/c96U10ed1l"
+
+Sentiment Assessment:
+[]
+
+Text"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+
+Sentiment Assessment:
+[]
+
+Text"RT @AsperCat: French police arrest the man who tortured a cat and recorded it for Facebook: \nThe Frenchman who was\u00a0captured... http://t.co/\u2026"
+
+Sentiment Assessment:
+[[["french"], 0.0, 0.0, null], [["arrest"], -0.05, 0.0, null]]
+
+Text"RT @AbusedChildren: Richland: Police: Convicted child rapist living in Richland | Crime, fires &amp; court news |... http://t.co/7qfXmTza0l"
+
+Sentiment Assessment:
+[]
+
+Text"RT @blackmagicgal1: So AAP will continue to cry foul at Delhi police whenever a crime is reported rather than take responsibility like a go\u2026"
+
+Sentiment Assessment:
+[]
+
+Text"RT @bradybuzz: BREAKING NEWS: Judge\u2019s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4"
+
+Sentiment Assessment:
+[]
+
+Text"RT @bradybuzz: BREAKING NEWS: Judge\u2019s ruling favors officers in Badger Guns suit: http://t.co/QcQP0vLtd4"
+
+Sentiment Assessment:
+[]
+
+Text"RT @girlweena: Just heard a police detective say \"interwishin'\" instead of \"intuition\" and am now considering a life of crime."
+
+Sentiment Assessment:
+[]
+
+Text"Wyoming Highway Patrol mourns loss of K-9 unit - Casper Star-Tribune Online http://t.co/w4Iagyh5sx #PoliceNews"
+
+Sentiment Assessment:
+[]
+

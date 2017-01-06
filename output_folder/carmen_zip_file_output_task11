@@ -1,0 +1,17 @@
+OUTPUT OF CARMEN.ZIP FILE
+Last login: Sat Jan 30 14:48:56 on ttys000
+Manass-MacBook-Pro:~ manasgaur$ cd Downloads/
+Manass-MacBook-Pro:Downloads manasgaur$ cd carmen/
+Manass-MacBook-Pro:carmen manasgaur$ python
+Python 2.7.10 (default, Oct 23 2015, 18:05:06) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> execfile('LocationResolver.py')
+INFO:__main__:Geocoding using these resources:
+INFO:__main__:place
+INFO:__main__:geocodes
+INFO:__main__:user profile
+INFO:__main__:Loading location resources.
+"@PeytonEpp9: @renaejazzz in track tho&gt;&gt;&gt;&gt;" I try!! \ud83d\ude0f
+bethel acers  ( oklahoma ,  united states )
+>>> 

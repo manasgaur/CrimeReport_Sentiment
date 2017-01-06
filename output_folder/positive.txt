@@ -1,0 +1,130 @@
+Text"New NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene;  http://t.co/f96jCNY3wV #patriots #liberty"
+
+Sentiment Assessment:
+[[["new"], 0.13636363636363635, 0.45454545454545453, null]]
+
+Text"Due to lack of police protection, #Christians in #Pakistan become easy targets for crime and abuse. http://t.co/6Ld0Zs9h29 ^ws"
+
+Sentiment Assessment:
+[[["due"], -0.125, 0.375, null], [["easy"], 0.43333333333333335, 0.8333333333333334, null]]
+
+Text"New #NRA Advice: Don't Cooperate With Police If Your Gun Shows Up At A Crime Scene http://t.co/ldIDJ75Did"
+
+Sentiment Assessment:
+[[["new"], 0.13636363636363635, 0.45454545454545453, null]]
+
+Text"#Police : Become a Special Constable and help cut crime http://t.co/taxFZeQ4Vx Devon Cornwall"
+
+Sentiment Assessment:
+[[["special"], 0.35714285714285715, 0.5714285714285714, null]]
+
+Text"RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru\u2026"
+
+Sentiment Assessment:
+[[["real"], 0.2, 0.30000000000000004, null]]
+
+Text"RT @CherryFlavoredd: Cause there isn't any real crime anywhere.. RT @DrinkingTicket: Police around capstone dorm arresting kids looking dru\u2026"
+
+Sentiment Assessment:
+[[["real"], 0.2, 0.30000000000000004, null]]
+
+Text"India News Police sniffer dog's bark lands man in Mumbai jail for 10 years, High Court orders his release http://t.co/KAd6IIFW7r"
+
+Sentiment Assessment:
+[[["high"], 0.16, 0.5399999999999999, null]]
+
+Text"@BansheeTvShow The entire police department, the bartender, the gay tech all were in the showdown but only Carrie is charged with a crime?"
+
+Sentiment Assessment:
+[[["entire"], 0.0, 0.625, null], [["gay"], 0.4166666666666667, 0.5833333333333334, null], [["only"], 0.0, 1.0, null]]
+
+Text"Police union wants lock out zones expanded:\nhttp://t.co/hu8zOehB7G"
+
+Sentiment Assessment:
+[[["wants"], 0.2, 0.1, null]]
+
+Text"Bay Area journos on crime beat: there are 4 police cars &amp; yellow tape at sunny spot med. MJ shop on 17th right now. Don't know what's up."
+
+Sentiment Assessment:
+[[["yellow"], 0.0, 0.0, null], [["right"], 0.2857142857142857, 0.5357142857142857, null]]
+
+Text"\"Men posing as police: Petaluma home invasion.\"\n\nUh, I'm not letting any cop in w/out a badge number confirmed.\n\nhttp://t.co/90vu7IBTx1"
+
+Sentiment Assessment:
+[[["confirmed"], 0.4, 1.0, null]]
+
+Text"Police Chief James Craig: More guns could equal less crime in Detroit http://t.co/CACeNrG6Kt"
+
+Sentiment Assessment:
+[[["more"], 0.5, 0.5, null], [["equal"], 0.0, 0.25, null], [["less"], -0.16666666666666666, 0.06666666666666667, null]]
+
+Text"RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO \u2026"
+
+Sentiment Assessment:
+[[["such"], 0.0, 0.5, null], [["loyal"], 0.3333333333333333, 0.8333333333333334, null]]
+
+Text"RT @Sissy2814: Some ppl are unfit to deserve such loyal companion. This is a crime if you see this call police. http://t.co/IDcRLIDO5L WHO \u2026"
+
+Sentiment Assessment:
+[[["such"], 0.0, 0.5, null], [["loyal"], 0.3333333333333333, 0.8333333333333334, null]]
+
+Text"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I\u2026"
+
+Sentiment Assessment:
+[[["full"], 0.35, 0.55, null], [["most"], 0.5, 0.5, null]]
+
+Text"Crime prevention education, animal control services &amp; house watch are just a few ways our police force makes citizens feel safe &amp; secure."
+
+Sentiment Assessment:
+[[["few"], -0.2, 0.1, null], [["safe"], 0.5, 0.5, null], [["secure"], 0.4, 0.6, null]]
+
+Text"RT @ABCNews24_: Now: Greens Hansen Young says closure of Mt Thomas police station reckless and will increase crime from Ramsay Street to Su\u2026"
+
+Sentiment Assessment:
+[[["young"], 0.1, 0.4, null]]
+
+Text"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I\u2026"
+
+Sentiment Assessment:
+[[["full"], 0.35, 0.55, null], [["most"], 0.5, 0.5, null]]
+
+Text"Heroin sold in McDonald's Happy Meals: Police http://t.co/4ZLnMPX3rc @bskousen we could of been rich!"
+
+Sentiment Assessment:
+[[["happy"], 0.8, 1.0, null], [["rich", "!"], 0.46875, 0.75, null]]
+
+Text"Man sentenced for fraud: FLORENCE \u2014 A man who police said took advantage of a good Samaritan has been sentence... http://t.co/ZySyaI2YFh"
+
+Sentiment Assessment:
+[[["good"], 0.7, 0.6000000000000001, null]]
+
+Text"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I\u2026"
+
+Sentiment Assessment:
+[[["full"], 0.35, 0.55, null], [["most"], 0.5, 0.5, null]]
+
+Text"RT @SinghRPN: .@AngellicAribam Yes,hv spoken to Delhi police for full and speedy probe,it is the most dastardly crime.shames all of us as I\u2026"
+
+Sentiment Assessment:
+[[["full"], 0.35, 0.55, null], [["most"], 0.5, 0.5, null]]
+
+Text"Baby Boy Death:  3 Arrested Over Murder http://t.co/rVZCBbtAEi #News #Crime #Police #PoliceAppeal"
+
+Sentiment Assessment:
+[[[":3"], 0.5, 1.0, "mood"]]
+
+Text"RT @BaltoSpectator: I uploaded a new track, \"Lying Bastards Of Baltimore Police\", on @spreaker #baltimore #crime #fascism http://t.co/A8hyR\u2026"
+
+Sentiment Assessment:
+[[["new"], 0.13636363636363635, 0.45454545454545453, null]]
+
+Text"Driver blows over legal limit http://t.co/PvczzPY7EB\n #crime #Police #WestPerth"
+
+Sentiment Assessment:
+[[["legal"], 0.2, 0.2, null]]
+
+Text"RT @flintjournal: Police news: Billboards tout anonymity of new Crime Stoppers hotline; Hamady janitor accused of sexual relatio... http://\u2026"
+
+Sentiment Assessment:
+[[["new"], 0.13636363636363635, 0.45454545454545453, null], [["sexual"], 0.5, 0.8333333333333334, null]]
+
